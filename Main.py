@@ -55,6 +55,8 @@ skipGen = 10  # Generations between training
 headLess = 0        # Sexy Graphs will be plotted when not head less
 supressConsole = 0  # Silence is Golden !!
 consoleHead = 0     # Plain Jane Graphs will be plotted when console head is on
+NKLanscapeTest=0
+NKkvalue=6
 
 #</editor-fold>
 

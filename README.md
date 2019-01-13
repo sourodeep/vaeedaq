@@ -2,6 +2,9 @@
 Variational AutoEncoder with Population Queue and AVS
 Copyright Sourodeep Bhattacharjee and Robin Gras, 2019.
 
+To execute the code please enter the following from command prompt console or terminal:
+  Python Main.py
+
 The parameters of the algorithm are in Main.py and described as follows:
 
 ########################
